@@ -1,1 +1,2 @@
-busybox
+redis:7.0.4
+redis
