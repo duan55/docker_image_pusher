@@ -1,6 +1,4 @@
 busybox
-alpine
-debian
 mongodb
 ubuntu
 centos
