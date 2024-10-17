@@ -1,5 +1,5 @@
 busybox
-mongodb
+bitnami/mongodb
 ubuntu
 centos
 postgres
