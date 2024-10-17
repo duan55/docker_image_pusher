@@ -1,5 +1,1 @@
-busybox
-bitnami/mongodb
-ubuntu
-centos
-postgres
+bitnami/redis
