@@ -1,1 +1,1 @@
-apache/kafka:4.0
+apache/kafka
