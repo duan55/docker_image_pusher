@@ -1,1 +1,1 @@
-tomcat
+wurstmeister/kafka:3.0.0
